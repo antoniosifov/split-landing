@@ -563,7 +563,12 @@
     .bento-small > .bento-card:hover { transform: none; }
   }
 </style>
-</head>
+    <!-- Vercel Web Analytics: page views, no cookies. Not on join.html, whose URL carries an invite code. -->
+    <script>
+      window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+    </script>
+    <script defer src="/_vercel/insights/script.js"></script>
+  </head>
 <body>
 
 <!-- ─── Nav ─── -->
