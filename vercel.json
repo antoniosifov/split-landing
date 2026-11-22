@@ -58,7 +58,7 @@
       ]
     },
     {
-      "source": "/(.*)\\.(png|ico)",
+      "source": "/(.*)\\.(png|ico|jpg)",
       "headers": [
         {
           "key": "Cache-Control",
