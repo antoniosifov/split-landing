@@ -1,0 +1,45 @@
+# Ceru
+
+> Ceru is a mobile app for splitting group expenses: trips, dinners, shared homes, events and projects. You add an expense by voice, by a photo of the receipt, or by hand, and the app works out who owes whom. It has no ads. It is on the App Store for iPhone; Android is in closed testing.
+
+Ceru was previously developed under the working name SplitAI. It is made by Forma (https://forma-ltd.com/).
+
+## What it does
+
+- Voice input: say "Dinner 80 euros, split 4 ways" and the amount, currency, people and category are filled in.
+- Receipt scanning: photograph a receipt and assign each line to the people who had it; the tip is split in proportion.
+- Manual entry: works fully offline and syncs when the connection is back.
+- Splits: equally, by exact amounts, by shares, or by receipt line.
+- Balances: one screen shows who owes whom; debt simplification reduces the number of payments.
+- Reminders: push reminders about open debts, so nobody has to ask in person.
+- Group types: trip, roommates, couple and family, event, project.
+- Guests: add friends by name without making them install the app; if they join later by link they keep their history.
+- 154 currencies with daily exchange rates.
+- 8 interface languages: English, Russian, Ukrainian, Hebrew (right to left), Spanish, German, Kazakh, Arabic (right to left).
+- Import from Splitwise: export a group from Splitwise as a spreadsheet and pick that file when creating a group in Ceru.
+- Activity feed and comments on expenses.
+
+## Price
+
+- Free: groups, members, manual expenses, all currencies, guests, debt reminders, offline use. No ads. AI input is free up to 5 voice entries and 3 receipt scans a month.
+- Ceru Pro: $3.99 a month or $29.99 a year in the US App Store (prices may differ by country). Unlimited voice input and receipt scanning, analytics, group budgets with alerts, export to PDF and Excel.
+
+## Limits worth knowing
+
+- Voice input and receipt scanning need an internet connection, because the audio or photo is processed by AI services.
+- There is no public Android release yet. Android is in closed testing; write to av.studio.devs@gmail.com for a build.
+- Ceru records debts and settlements; it does not move money between people.
+
+## Privacy
+
+- No ads, and data is not sold.
+- Expenses are visible only to the members of the group.
+- An account and its data can be deleted: https://ceruapp.com/delete-account.html
+
+## Links
+
+- [Website](https://ceruapp.com/): features, pricing and FAQ in English, Russian (https://ceruapp.com/?lang=ru) and Hebrew (https://ceruapp.com/?lang=he)
+- [App Store](https://apps.apple.com/app/id6759336973): download for iPhone
+- [Privacy policy](https://ceruapp.com/privacy.html)
+- [Terms of service](https://ceruapp.com/terms.html)
+- Contact: av.studio.devs@gmail.com
